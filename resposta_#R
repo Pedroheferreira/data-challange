@@ -1,3 +1,5 @@
+#OLá decidi usar o código #R pois foi algo novo para mim e extremamente desafiador, e é isso que estou procurando no ambiente de trabalho. 
+
 library('xml2')
 library('rvest')
 library('DT')
